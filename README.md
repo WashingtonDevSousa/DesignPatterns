@@ -37,4 +37,4 @@ Observer:
 </li>
 </ol>
 
-Fontes: <a src='https://www.youtube.com/watch?v=A3zr57hZjMo&t=392s&ab_channel=OneBitCode' target="_blank">OneBitCode Youtube</a>
+Fontes: <a href='https://www.youtube.com/watch?v=A3zr57hZjMo&t=392s&ab_channel=OneBitCode' target="_blank">OneBitCode Youtube</a>
